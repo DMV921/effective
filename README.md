@@ -77,6 +77,3 @@ docker run --rm effective-tests
 pages/home_page.py
 ```
 
-## 📬 Вопросы
-Нужна помощь — пиши.
-
